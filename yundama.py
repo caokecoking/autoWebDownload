@@ -1,9 +1,11 @@
-import http.client, mimetypes, urllib, json, time, requests
+import json
+import requests
+import time
+
 
 ######################################################################
 
 class YDMHttp:
-
     apiurl = 'http://api.yundama.com/api.php'
     username = ''
     password = ''
@@ -11,7 +13,7 @@ class YDMHttp:
     appkey = ''
 
     def __init__(self, username, password, appid, appkey):
-        self.username = username  
+        self.username = username
         self.password = password
         self.appid = str(appid)
         self.appkey = appkey
@@ -20,9 +22,10 @@ class YDMHttp:
         response = self.post_url(self.apiurl, fields, files)
         response = json.loads(response)
         return response
-    
+
     def balance(self):
-        data = {'method': 'balance', 'username': self.username, 'password': self.password, 'appid': self.appid, 'appkey': self.appkey}
+        data = {'method': 'balance', 'username': self.username, 'password': self.password, 'appid': self.appid,
+                'appkey': self.appkey}
         response = self.request(data)
         if (response):
             if (response['ret'] and response['ret'] < 0):
@@ -31,9 +34,10 @@ class YDMHttp:
                 return response['balance']
         else:
             return -9001
-    
+
     def login(self):
-        data = {'method': 'login', 'username': self.username, 'password': self.password, 'appid': self.appid, 'appkey': self.appkey}
+        data = {'method': 'login', 'username': self.username, 'password': self.password, 'appid': self.appid,
+                'appkey': self.appkey}
         response = self.request(data)
         if (response):
             if (response['ret'] and response['ret'] < 0):
@@ -44,7 +48,8 @@ class YDMHttp:
             return -9001
 
     def upload(self, filename, codetype, timeout):
-        data = {'method': 'upload', 'username': self.username, 'password': self.password, 'appid': self.appid, 'appkey': self.appkey, 'codetype': str(codetype), 'timeout': str(timeout)}
+        data = {'method': 'upload', 'username': self.username, 'password': self.password, 'appid': self.appid,
+                'appkey': self.appkey, 'codetype': str(codetype), 'timeout': str(timeout)}
         file = {'file': filename}
         response = self.request(data, file)
         if (response):
@@ -56,7 +61,8 @@ class YDMHttp:
             return -9001
 
     def result(self, cid):
-        data = {'method': 'result', 'username': self.username, 'password': self.password, 'appid': self.appid, 'appkey': self.appkey, 'cid': str(cid)}
+        data = {'method': 'result', 'username': self.username, 'password': self.password, 'appid': self.appid,
+                'appkey': self.appkey, 'cid': str(cid)}
         response = self.request(data)
         return response and response['text'] or ''
 
@@ -74,7 +80,8 @@ class YDMHttp:
             return cid, ''
 
     def report(self, cid):
-        data = {'method': 'report', 'username': self.username, 'password': self.password, 'appid': self.appid, 'appkey': self.appkey, 'cid': str(cid), 'flag': '0'}
+        data = {'method': 'report', 'username': self.username, 'password': self.password, 'appid': self.appid,
+                'appkey': self.appkey, 'cid': str(cid), 'flag': '0'}
         response = self.request(data)
         if (response):
             return response['ret']

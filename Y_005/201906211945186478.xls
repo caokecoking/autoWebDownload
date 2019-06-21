@@ -1,0 +1,95 @@
+<meta http-equiv=Content-Type content="text/html; charset=utf-8"><table rules="all" border="1">
+	<tr style="color:White;background-color:Black;height:24px;">
+		<th scope="col">发生日期</th><th scope="col">商品名</th><th scope="col">商品通用名</th><th scope="col">分销商名</th><th scope="col">客户名</th><th scope="col">批号</th><th scope="col">规格</th><th scope="col">单位</th><th scope="col">供应商名</th><th scope="col">数量</th><th scope="col">生产日期</th><th scope="col">效期</th><th scope="col">业务员</th><th scope="col">单据类型</th><th scope="col">生产企业</th><th scope="col">商品编码</th><th scope="col">新商品编码</th><th scope="col">客户编码</th><th scope="col">备注</th>
+	</tr><tr style="height:22px;">
+		<td>2019-06-03</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南东森医药有限公司</td><td>方城县第二人民医院</td><td>1809169</td><td>50mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>240.0000</td><td>2018/9/1 0:00:00</td><td>2021/8/31 0:00:00</td><td>40091</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000787</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-03</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>新野县新甸铺镇卫生院</td><td>1808A31</td><td>25mg*20片</td><td>盒</td><td>商丘市华杰医药有限公司</td><td>30.0000</td><td>2018/8/1 8:44:54</td><td>2021/7/31 0:00:00</td><td>李飞</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-04</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南东森医药有限公司</td><td>南阳市中医院</td><td>1903A41</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>480.0000</td><td>2019/3/31 0:00:00</td><td>2022/2/28 0:00:00</td><td>40091</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>815054</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-04</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南东森医药有限公司</td><td>南阳医学高等专科学校第二附属医院</td><td>1806A24</td><td>25mg*20片</td><td>盒</td><td>国药控股河南股份有限公司</td><td>50.0000</td><td>2018/6/1 0:00:00</td><td>2021/5/31 0:00:00</td><td>40048</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-04</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南东森医药有限公司</td><td>南阳医学高等专科学校第二附属医院</td><td>1903A41</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>50.0000</td><td>2019/3/31 0:00:00</td><td>2022/2/28 0:00:00</td><td>40091</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-04</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>新野县上庄乡卫生院</td><td>1808A31</td><td>25mg*20片</td><td>盒</td><td>商丘市华杰医药有限公司</td><td>170.0000</td><td>2018/8/1 8:44:54</td><td>2021/7/31 0:00:00</td><td>李飞</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-04</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>新野县新甸铺镇卫生院</td><td>1808A31</td><td>25mg*20片</td><td>盒</td><td>商丘市华杰医药有限公司</td><td>240.0000</td><td>2018/8/1 8:44:54</td><td>2021/7/31 0:00:00</td><td>李飞</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-05</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南东森医药有限公司</td><td>南阳油田总医院(河南石油勘探局职工医院)</td><td>1903A41</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>380.0000</td><td>2019/3/31 0:00:00</td><td>2022/2/28 0:00:00</td><td>40091</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-05</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南东森医药有限公司</td><td>南阳油田总医院(河南石油勘探局职工医院)</td><td>1903A41</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>807.0000</td><td>2019/3/31 0:00:00</td><td>2022/2/28 0:00:00</td><td>40091</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-05</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南东森医药有限公司</td><td>南阳油田总医院(河南石油勘探局职工医院)</td><td>1904A16</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>1213.0000</td><td>2019/4/30 0:00:00</td><td>2022/3/31 0:00:00</td><td>40091</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-05</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南东森医药有限公司</td><td>南召县中医院</td><td>1903A41</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>240.0000</td><td>2019/3/31 0:00:00</td><td>2022/2/28 0:00:00</td><td>40091</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-06</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南东森医药有限公司</td><td>河南东森医药有限公司新特药便民药房</td><td>1904A16</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>10.0000</td><td>2019/4/30 0:00:00</td><td>2022/3/31 0:00:00</td><td>40091</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-10</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南东森医药有限公司</td><td>方城七峰中医院</td><td>1904A16</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>20.0000</td><td>2019/4/30 0:00:00</td><td>2022/3/31 0:00:00</td><td>40091</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-10</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南东森医药有限公司</td><td>南阳市中心医院</td><td>1809169</td><td>50mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>720.0000</td><td>2018/9/1 0:00:00</td><td>2021/8/31 0:00:00</td><td>40091</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000787</td><td>815052</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-10</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>&nbsp;</td><td>1904A01</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>1200.0000</td><td>2019/4/30 0:00:00</td><td>2022/3/31 0:00:00</td><td>赵东松</td><td>采购</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-10</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>&nbsp;</td><td>1904A16</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>10750.0000</td><td>2019/4/30 0:00:00</td><td>2022/3/31 0:00:00</td><td>赵东松</td><td>采购</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-10</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>桐柏县人民医院</td><td>1904A16</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>1680.0000</td><td>2019/4/30 0:00:00</td><td>2022/3/31 0:00:00</td><td>赵东松</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-10</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>桐柏县人民医院</td><td>1805207</td><td>50mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>240.0000</td><td>2018/5/31 0:00:00</td><td>2021/4/30 0:00:00</td><td>赵东松</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000787</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-11</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南东森医药有限公司</td><td>河南东森医药有限公司新特药便民药房</td><td>1904A16</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>20.0000</td><td>2019/4/30 0:00:00</td><td>2022/3/31 0:00:00</td><td>40091</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-11</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>南阳卧龙医院</td><td>1904A16</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>240.0000</td><td>2019/4/30 0:00:00</td><td>2022/3/31 0:00:00</td><td>赵东松</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-11</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>新野县沙堰镇卫生院</td><td>1904A16</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>480.0000</td><td>2019/4/30 0:00:00</td><td>2022/3/31 0:00:00</td><td>赵东松</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-11</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>新野县上庄乡卫生院</td><td>1904A16</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>240.0000</td><td>2019/4/30 0:00:00</td><td>2022/3/31 0:00:00</td><td>赵东松</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-11</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>新野县施庵镇卫生院</td><td>1904A16</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>240.0000</td><td>2019/4/30 0:00:00</td><td>2022/3/31 0:00:00</td><td>赵东松</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-11</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>新野县中医院</td><td>1904A16</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>480.0000</td><td>2019/4/30 0:00:00</td><td>2022/3/31 0:00:00</td><td>赵东松</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-12</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南东森医药有限公司</td><td>&nbsp;</td><td>1812094</td><td>50mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>240.0000</td><td>2018/12/31 0:00:00</td><td>2021/11/30 0:00:00</td><td>40091</td><td>采购</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000787</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-12</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南东森医药有限公司</td><td>&nbsp;</td><td>1904198</td><td>50mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>1440.0000</td><td>2019/4/30 0:00:00</td><td>2022/3/31 0:00:00</td><td>40091</td><td>采购</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000787</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-12</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南东森医药有限公司</td><td>南阳市中心医院</td><td>1808030</td><td>50mg*20片</td><td>盒</td><td>国药控股河南股份有限公司</td><td>-240.0000</td><td>2018/8/1 0:00:00</td><td>2021/7/31 0:00:00</td><td>40048</td><td>销退</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000787</td><td>815052</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-12</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南东森医药有限公司</td><td>南阳市中心医院</td><td>1808030</td><td>50mg*20片</td><td>盒</td><td>国药控股河南股份有限公司</td><td>240.0000</td><td>2018/8/1 0:00:00</td><td>2021/7/31 0:00:00</td><td>40048</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000787</td><td>815052</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-12</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南东森医药有限公司</td><td>南阳医学高等专科学校第二附属医院</td><td>1904A16</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>240.0000</td><td>2019/4/30 0:00:00</td><td>2022/3/31 0:00:00</td><td>40091</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-12</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>新野县上庄乡卫生院</td><td>1805207</td><td>50mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>20.0000</td><td>2018/5/31 0:00:00</td><td>2021/4/30 0:00:00</td><td>赵东松</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000787</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-12</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>新野县中医院</td><td>1904A16</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>50.0000</td><td>2019/4/30 0:00:00</td><td>2022/3/31 0:00:00</td><td>赵东松</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-14</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>新野县王集镇卫生院</td><td>1904A16</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>480.0000</td><td>2019/4/30 0:00:00</td><td>2022/3/31 0:00:00</td><td>赵东松</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-17</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>新野县五星镇卫生院</td><td>1805207</td><td>50mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>20.0000</td><td>2018/5/31 0:00:00</td><td>2021/4/30 0:00:00</td><td>赵东松</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000787</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-17</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>新野县五星镇卫生院</td><td>1805207</td><td>50mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>30.0000</td><td>2018/5/31 0:00:00</td><td>2021/4/30 0:00:00</td><td>赵东松</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000787</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-17</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>新野县五星镇卫生院</td><td>1805207</td><td>50mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>30.0000</td><td>2018/5/31 0:00:00</td><td>2021/4/30 0:00:00</td><td>赵东松</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000787</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-17</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>新野县五星镇卫生院</td><td>1805207</td><td>50mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>50.0000</td><td>2018/5/31 0:00:00</td><td>2021/4/30 0:00:00</td><td>赵东松</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000787</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-19</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南东森医药有限公司</td><td>南阳油田总医院(河南石油勘探局职工医院)</td><td>1904A16</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>100.0000</td><td>2019/4/30 0:00:00</td><td>2022/3/31 0:00:00</td><td>40091</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-19</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南东森医药有限公司</td><td>南阳油田总医院(河南石油勘探局职工医院)</td><td>1808030</td><td>50mg*20片</td><td>盒</td><td>国药控股河南股份有限公司</td><td>100.0000</td><td>2018/8/1 0:00:00</td><td>2021/7/31 0:00:00</td><td>40048</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000787</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-19</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>新野县王集镇卫生院</td><td>1904A16</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>20.0000</td><td>2019/4/30 0:00:00</td><td>2022/3/31 0:00:00</td><td>赵东松</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-19</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>新野县王集镇卫生院</td><td>1805207</td><td>50mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>20.0000</td><td>2018/5/31 0:00:00</td><td>2021/4/30 0:00:00</td><td>赵东松</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000787</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-20</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>新野县汉城社区卫生服务中心</td><td>1904A16</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>20.0000</td><td>2019/4/30 0:00:00</td><td>2022/3/31 0:00:00</td><td>赵东松</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-20</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>新野县汉华社区卫生服务中心</td><td>1904A16</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>1200.0000</td><td>2019/4/30 0:00:00</td><td>2022/3/31 0:00:00</td><td>赵东松</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-20</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>新野县汉华社区卫生服务中心</td><td>1904A16</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>2400.0000</td><td>2019/4/30 0:00:00</td><td>2022/3/31 0:00:00</td><td>赵东松</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-20</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>新野县人民医院</td><td>1904A16</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>960.0000</td><td>2019/4/30 0:00:00</td><td>2022/3/31 0:00:00</td><td>赵东松</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr><tr style="height:22px;">
+		<td>2019-06-20</td><td>倍他乐克</td><td>酒石酸美托洛尔片</td><td>河南海王汇通医药有限公司</td><td>新野县人民医院</td><td>1904A01</td><td>25mg*20片</td><td>盒</td><td>河南海王医药集团有限公司</td><td>1200.0000</td><td>2019/4/30 0:00:00</td><td>2022/3/31 0:00:00</td><td>赵东松</td><td>销售</td><td>阿斯利康制药有限公司</td><td>&nbsp;</td><td>11020000662</td><td>&nbsp;</td><td>&nbsp;</td>
+	</tr>
+</table>
