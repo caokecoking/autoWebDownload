@@ -441,7 +441,6 @@ def hr05(url, pageUsername, pagePassword, folder):
     input('Press ENTER to close the automated browser')
     driver.quit()
 
-
 with open('wdt.csv', newline='', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
