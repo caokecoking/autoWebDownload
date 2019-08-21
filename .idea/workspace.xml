@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54d7c25e-c3bf-48ec-8dc2-6a7a75b8094d" name="Default Changelist" comment="已完成5家经销商自动网载程序 -- 20190621-19:52">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B_001/SaleList_20190621192454.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B_001/delivery_20190621182812.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y_001/SaleList_20190621192725.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y_001/StoreList_20190619125701.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y_001/StoreList_20190621192124.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y_001/StoreList_20190621192300.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y_001/StoreList_20190621192714.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y_002/SaleList_20190621192811.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y_002/StoreList_20190621192800.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y_004/销售流向查询 (1).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y_004/销售流向查询 (2).xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y_004/销售流向查询.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y_005/201906211945186478.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Y_005/201906211945187570.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autodownload.py" beforeDir="false" afterPath="$PROJECT_DIR$/autodownload.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache.png" beforeDir="false" afterPath="$PROJECT_DIR$/cache.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full_snap.png" beforeDir="false" afterPath="$PROJECT_DIR$/full_snap.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wdt.csv" beforeDir="false" afterPath="$PROJECT_DIR$/wdt.csv" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1084902350">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/property.csv">
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/autodownload.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ctc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="29" column="53" lean-forward="true" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yundama.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Y_003/CreateCsv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cache.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/full_snap.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;</find>
+      <find>hr06</find>
+      <find>input('Press ENTER to close the automated browser')</find>
+      <find>first_day</find>
+      <find>hr07</find>
+      <find>print('download failed or take too long!')</find>
+      <find>hr19</find>
+      <find>iframe</find>
+      <find>LXD00548</find>
+      <find>yunda</find>
+      <find>vCode</find>
+      <find>subcompany</find>
+      <find>codetype</find>
+      <find>limit</find>
+      <find>store</find>
+      <find>hr12</find>
+      <find>hr23</find>
+      <find>hr02</find>
+      <find>result_DF</find>
+      <find>filename</find>
+      <find>file_name</find>
+      <find>download_reason</find>
+      <find>hr08</find>
+      <find>is_</find>
+      <find>hr05</find>
+      <find>182</find>
+      <find>hr37</find>
+      <find>text('1')</find>
+      <find>hr10</find>
+      <find>701</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>cache</replace>
+      <replace>is Fa</replace>
+      <replace>'</replace>
+      <replace>print(e, &quot;&gt;&gt;异常&quot;, folder, &gt;&gt;&gt;下载失败&quot;)</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="terrell" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ctc.py" />
+        <option value="$PROJECT_DIR$/yundama.py" />
+        <option value="$PROJECT_DIR$/wdt.csv" />
+        <option value="$PROJECT_DIR$/Y_003/CreateCsv.py" />
+        <option value="$PROJECT_DIR$/20190630-1348-download_file.csv" />
+        <option value="$PROJECT_DIR$/property.csv" />
+        <option value="$PROJECT_DIR$/autodownload.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="autoWebDownload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoWebDownload" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoWebDownload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoWebDownload" type="462c0819:PsiDirectoryNode" />
+              <item name="Y_AHSQ0056758T" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoWebDownload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoWebDownload" type="462c0819:PsiDirectoryNode" />
+              <item name="Y_FJS21000760T" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoWebDownload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoWebDownload" type="462c0819:PsiDirectoryNode" />
+              <item name="Y_FJS21000774T" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoWebDownload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoWebDownload" type="462c0819:PsiDirectoryNode" />
+              <item name="Y_FJS21001600T" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoWebDownload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoWebDownload" type="462c0819:PsiDirectoryNode" />
+              <item name="Y_HEN21000997T" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoWebDownload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoWebDownload" type="462c0819:PsiDirectoryNode" />
+              <item name="Y_HUN11150789T" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoWebDownload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoWebDownload" type="462c0819:PsiDirectoryNode" />
+              <item name="Y_JSS11377552T" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoWebDownload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoWebDownload" type="462c0819:PsiDirectoryNode" />
+              <item name="Y_JSS21009023K" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoWebDownload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoWebDownload" type="462c0819:PsiDirectoryNode" />
+              <item name="Y_JSS21009069K" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoWebDownload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoWebDownload" type="462c0819:PsiDirectoryNode" />
+              <item name="Y_LLS21001317T" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoWebDownload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoWebDownload" type="462c0819:PsiDirectoryNode" />
+              <item name="Y_LLS21001690T" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoWebDownload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoWebDownload" type="462c0819:PsiDirectoryNode" />
+              <item name="Y_LLS21008238K" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoWebDownload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoWebDownload" type="462c0819:PsiDirectoryNode" />
+              <item name="Y_TJSQ0020315T" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoWebDownload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoWebDownload" type="462c0819:PsiDirectoryNode" />
+              <item name="Y_YNSQ0026701T" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoWebDownload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoWebDownload" type="462c0819:PsiDirectoryNode" />
+              <item name="Y_ZJS21000671T" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoWebDownload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoWebDownload" type="462c0819:PsiDirectoryNode" />
+              <item name="Y_ZJS21000689T" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoWebDownload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoWebDownload" type="462c0819:PsiDirectoryNode" />
+              <item name="Y_ZJS21000702T" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoWebDownload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoWebDownload" type="462c0819:PsiDirectoryNode" />
+              <item name="Y_ZJS21000704T" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoWebDownload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoWebDownload" type="462c0819:PsiDirectoryNode" />
+              <item name="Y_ZJS21000708T" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoWebDownload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoWebDownload" type="462c0819:PsiDirectoryNode" />
+              <item name="Y_ZJS21000715T" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autoWebDownload" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autoWebDownload" type="462c0819:PsiDirectoryNode" />
+              <item name="Y_ZJS21000832T" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562058441631" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/LeetCode/UnitDemo" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\idea_workspace\Python\qtTest\autoWebDownload" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.autodownload">
+    <configuration name="CreateCsv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="autoWebDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Y_003" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Y_003/CreateCsv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="autodownload" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="autoWebDownload" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/autodownload.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.CreateCsv" />
+      <item itemvalue="Python.autodownload" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.autodownload" />
+        <item itemvalue="Python.CreateCsv" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54d7c25e-c3bf-48ec-8dc2-6a7a75b8094d" name="Default Changelist" comment="" />
+      <created>1561011179317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561011179317</updated>
+    </task>
+    <task id="LOCAL-00001" summary="已完成5家经销商自动网载程序 -- 20190621-19:52">
+      <created>1561118025386</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561118025386</updated>
+    </task>
+    <task id="LOCAL-00002" summary="已完成18家经销商自动网载程序 -- 20190626-18:29">
+      <created>1561544966115</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561544966115</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49791667" visible="true" weight="0.18758257" />
+      <window_info id="Structure" order="1" sideWeight="0.50208336" side_tool="true" weight="0.2533512" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4966488" weight="0.45530728" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39944133" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.1452514" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5033512" side_tool="true" weight="0.30865923" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49731904" weight="0.2932961" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49865952" weight="0.32960895" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="已完成5家经销商自动网载程序 -- 20190621-19:52" />
+    <MESSAGE value="已完成18家经销商自动网载程序 -- 20190626-18:29" />
+    <option name="LAST_COMMIT_MESSAGE" value="已完成18家经销商自动网载程序 -- 20190626-18:29" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/autoWebDownload.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/os.py" />
+    <entry file="file://$PROJECT_DIR$/chromedriver">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/PIL/Image.py" />
+    <entry file="file://$PROJECT_DIR$/capcha001.png" />
+    <entry file="file://$PROJECT_DIR$/img.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/api.py" />
+    <entry file="file://$PROJECT_DIR$/capcha.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LBXautoDown.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/remote/webelement.py" />
+    <entry file="file://$PROJECT_DIR$/checkcode.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/common/actions/pointer_actions.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/chrome/options.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/ie/options.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/selenium/webdriver/remote/webdriver.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pandas/core/frame.py" />
+    <entry file="file://$PROJECT_DIR$/20190628-18010成功6失败.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190628-18010成功1失败.csv" />
+    <entry file="file://$PROJECT_DIR$/20190628-18120成功1失败.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190628-19400成功1失败.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190628-2155--12成功13失败.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Y_003/20190630-1241-download.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Y_003/20190630-1301-download.csv" />
+    <entry file="file://$PROJECT_DIR$/Y_003/20190630-1320-download.csv" />
+    <entry file="file://$PROJECT_DIR$/Y_003/20190630-1330-download.csv" />
+    <entry file="file://$PROJECT_DIR$/Y_003/20190630-1332-download.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190630-1347-download_file.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190630-1348-download_file.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="1862">
+          <caret line="98" column="1" selection-start-line="98" selection-start-column="1" selection-end-line="98" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190701-1326-download_file.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wdt.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="57" lean-forward="true" selection-start-line="1" selection-start-column="57" selection-end-line="1" selection-end-column="57" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="84" selection-start-line="21" selection-start-column="84" selection-end-line="21" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190701-1350-download_file.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190702-0949-download_file.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20190702-1337-download_file.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/property.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yundama.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Y_003/CreateCsv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cache.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/full_snap.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autodownload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="29" column="53" lean-forward="true" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>autoWebDownload</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
