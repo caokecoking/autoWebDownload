@@ -4,7 +4,6 @@ import numpy as np
 import random
 
 import string
-
 characters = string.digits + string.ascii_uppercase
 print(characters)
 
